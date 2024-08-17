@@ -1,5 +1,5 @@
-# — Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
-# tenho 19 anos no momento, e estou cursando ADS.
+— Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
+tenho 19 anos no momento, e estou cursando ADS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fukuroudotty&langs_count=10&theme=dark)
 <div> <style="display: inline_block"><br>
