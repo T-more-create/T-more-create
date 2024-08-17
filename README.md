@@ -1,6 +1,7 @@
 - Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
 - tenho 19 anos no momento, e estou cursando ADS.
 - foco em desenvolvimento web front-end
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&theme=dark&langs_count=6)
 <div> <style="display: inline_block"><br>
