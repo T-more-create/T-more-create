@@ -2,8 +2,8 @@
 - tenho 19 anos no momento, e estou cursando ADS.
 - foco em desenvolvimento web front-end
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&theme=dark&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
 <div> <style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
