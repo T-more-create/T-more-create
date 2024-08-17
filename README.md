@@ -1,4 +1,4 @@
-— Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
+- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
 - tenho 19 anos no momento, e estou cursando ADS.
 - foco em desenvolvimento web front-end
 
