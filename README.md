@@ -3,7 +3,7 @@
 - foco em desenvolvimento web front-end
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&theme=dark&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
+
 
 <div> <style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
