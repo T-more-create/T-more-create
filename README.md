@@ -1,5 +1,5 @@
 - Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
-- tenho 19 anos no momento, e estou cursando ADS.
+- tenho 19 anos no momento e estou cursando ADS.
 - foco em desenvolvimento web front-end
 - [Instagram](https://www.instagram.com/cwhaaw_)
 
