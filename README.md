@@ -4,7 +4,6 @@
 - [Instagram](https://www.instagram.com/cwhaaw_) | [Bluesky](https://bsky.app/profile/fukuroudotty.bsky.social)
 
 <div>
-   <a href="https://github.com/T-more-create">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&langs_count=6&theme=dark"/>
 </div>
