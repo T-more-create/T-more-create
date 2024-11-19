@@ -1,4 +1,4 @@
-## -  ᶻ 𝗓 𐰁 .ᐟ : Bem-vindos(a) ao meu perfil!
+## ☄ ᶻ 𝗓 𐰁 .ᐟ : Bem-vindos(a) ao meu perfil!
 
 - Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
 - tenho 19 anos no momento e estou cursando ADS.
