@@ -12,6 +12,13 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
+
+<div align="center">  
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Taíssa Moreira github stats" /> 
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+</div>
+
+
 <div> <style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
