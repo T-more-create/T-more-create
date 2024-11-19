@@ -1,5 +1,5 @@
 ## ☄ ᶻ 𝗓 𐰁 .ᐟ : Bem-vindos(a) ao meu perfil!
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=60&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=388f65&height=60&section=header"/>
 
 - Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
 - tenho 19 anos no momento e estou cursando ADS.
