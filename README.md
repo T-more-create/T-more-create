@@ -15,7 +15,7 @@
 
 <div align="center">  
   <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&count_private=true&hide_border=true&title_color=388f65&icon_color=388f65&text_color=c9d1d9&bg_color=0d1117" alt="Taíssa Moreira github stats" /> 
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=388f65&text_color=388f65&bg_color=0d1117" />
 </div>
 
 
