@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=388f65&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=388f65&size=20&center=true&vCenter=true&width=1000&lines=Olá!;Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=388f65&size=20&center=true&vCenter=true&width=1000&lines=Olá!;-+Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
 
 - Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
 - tenho 19 anos no momento e estou cursando ADS.
