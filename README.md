@@ -2,16 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=388f65&size=20&center=true&vCenter=true&width=1000&lines=-+Olá!;-+Bem-vindos+ao+meu+perfil!)](https://git.io/typing-svg)
 
-- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
-- tenho 19 anos no momento e estou cursando ADS.
-- foco em desenvolvimento web front-end
-- [Instagram](https://www.instagram.com/cwhaaw_) | [Bluesky](https://bsky.app/profile/fukuroudotty.bsky.social)
-
 <div align="center">  
   <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&count_private=true&hide_border=true&title_color=388f65&icon_color=388f65&text_color=c9d1d9&bg_color=0d1117" alt="Taíssa Moreira github stats" /> 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=388f65&text_color=388f65&bg_color=0d1117" />
 </div>
 
+- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
+- tenho 19 anos no momento e estou cursando ADS.
+- foco em desenvolvimento web front-end
+- [Instagram](https://www.instagram.com/cwhaaw_) | [Bluesky](https://bsky.app/profile/fukuroudotty.bsky.social)
 
 <div> <style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
