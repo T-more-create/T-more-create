@@ -19,8 +19,8 @@
 <p align="center">
    <br> ${\textsf{\color{#deab96}- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗}}$ 
  <br>
-  <br> ${\textsf{\color{#deab96}- tenho 19 anos no momento e estou cursando ADS.}}$ 
-  <br>
+  ${\textsf{\color{#deab96}- tenho 19 anos no momento e estou cursando ADS.}}$ 
+  
   ——⟣　　<a href="https://medkit.atabook.org">atabook</a>　　　　<a href="https://aesvic.straw.page">strawpage</a>　　　　<a href="https://rentry.co/six-eared-macaque">rentry</a>　　　　<a href="https://pronouns.cc/@sixearedmacaque">pronouns.cc</a>　　⟢——
  <br>
    ——————————⟣⠀ <a href="https://rentry.co/sun-wukong">lovemail rentry</a> ⠀⟢——————————
