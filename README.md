@@ -24,7 +24,7 @@
   ${\textsf{\color{#deab96}- foco em desenvolvimento web front-end e design.}}$ 
 
   
-  ——⟣　　<a href="https://medkit.atabook.org">atabook</a>　　　　<a href="https://aesvic.straw.page">strawpage</a>　　　　<a href="https://rentry.co/six-eared-macaque">rentry</a>　　　　<a href="https://pronouns.cc/@sixearedmacaque">pronouns.cc</a>　　⟢——
+  ——⟣　　<a href="(https://www.instagram.com/cwhaaw_)">Instagram</a>　　　　<a href="(https://bsky.app/profile/fukuroudotty.bsky.social)">Bluesky</a>　　⟢——
  <br>
    ——————————⟣⠀ <a href="https://rentry.co/sun-wukong">lovemail rentry</a> ⠀⟢——————————
          <br> ${\textsf{\color{#deab96}only followin' friends , or people i don't mind being friends with — sorry ! }}$ 
