@@ -23,7 +23,7 @@
  <br>
   ${\textsf{\color{#deab96}- foco em desenvolvimento web front-end e design.}}$ 
 
-  
+  <br>
   ——⟣　　<a href="https://www.instagram.com/cwhaaw_">Instagram</a>　　　　<a href="https://bsky.app/profile/fukuroudotty.bsky.social">Bluesky</a>　　⟢——
  <br>
    ——————————⟣⠀ <a href="https://rentry.co/sun-wukong">lovemail rentry</a> ⠀⟢——————————
