@@ -17,7 +17,7 @@
 
 
 <p align="center">
-   <br> ${\textsf{\color{#deab96}aesop　　he　/　him　✦　c + h　always welcome　✦　please sign ata　/　straw}}$ 
+   <br> ${\textsf{\color{#deab96}- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗}}$ 
  <br>
   ——⟣　　<a href="https://medkit.atabook.org">atabook</a>　　　　<a href="https://aesvic.straw.page">strawpage</a>　　　　<a href="https://rentry.co/six-eared-macaque">rentry</a>　　　　<a href="https://pronouns.cc/@sixearedmacaque">pronouns.cc</a>　　⟢——
      <br> ${\textsf{\color{#deab96}whisper 2 interact at all times .　　don't be scared to interact ! ♥}}$ 
