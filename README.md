@@ -7,15 +7,6 @@
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=388f65&text_color=388f65&bg_color=0d1117" />
 </div>
 
-- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗
-- tenho 19 anos no momento e estou cursando ADS.
-- foco em desenvolvimento web front-end
-- [Instagram](https://www.instagram.com/cwhaaw_) | [Bluesky](https://bsky.app/profile/fukuroudotty.bsky.social)
-
-
-
-
-
 <p align="center">
    <br> ${\textsf{\color{#388f65}- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗}}$ 
  <br>
@@ -27,10 +18,6 @@
   ——⟣　　<a href="https://www.instagram.com/cwhaaw_">Instagram</a>　　　　<a href="https://bsky.app/profile/fukuroudotty.bsky.social">Bluesky</a>　　⟢——
  <br>
   </p>
-
-
-
-
 
 <div> <style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
