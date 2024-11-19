@@ -7,12 +7,6 @@
 - foco em desenvolvimento web front-end
 - [Instagram](https://www.instagram.com/cwhaaw_) | [Bluesky](https://bsky.app/profile/fukuroudotty.bsky.social)
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&langs_count=6&theme=dark"/>
-</div>
-
-
 <div align="center">  
   <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=T-more-create&show_icons=true&count_private=true&hide_border=true&title_color=388f65&icon_color=388f65&text_color=c9d1d9&bg_color=0d1117" alt="Taíssa Moreira github stats" /> 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-more-create&layout=compact&hide_border=true&title_color=388f65&text_color=388f65&bg_color=0d1117" />
