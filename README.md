@@ -10,7 +10,7 @@
 <p align="center">
    <br> ${\textsf{\color{#388f65}- Sobre mim: Olá! Você pode me chamar de Taíssa.ˎˊ˗}}$ 
  <br>
-  ${\textsf{\color{#388f65}- tenho 19 anos no momento e estou cursando ADS.}}$ 
+  ${\textsf{\color{#388f65}- tenho 20 anos no momento e estou cursando ADS.}}$ 
  <br>
   ${\textsf{\color{#388f65}- foco em desenvolvimento web front-end e design.}}$ 
 
