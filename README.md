@@ -12,7 +12,7 @@
  <br>
   ${\textsf{\color{#388f65}- tenho 20 anos no momento e estou cursando ADS.}}$ 
  <br>
-  ${\textsf{\color{#388f65}- foco em desenvolvimento web front-end e design.}}$ 
+  ${\textsf{\color{#388f65}- foco em desenvolvimento web front-end, design e arte digital.}}$ 
 
   <br>
   ——⟣　　<a href="https://www.instagram.com/cwhaaw_">Instagram</a>　　　　<a href="https://bsky.app/profile/fukuroudotty.bsky.social">Bluesky</a>　　⟢——
